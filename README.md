@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# :wave: The Basics of GitHub Emil Huseynov 150210906
 
 ## 🤓 Course overview and learning outcomes 
 
