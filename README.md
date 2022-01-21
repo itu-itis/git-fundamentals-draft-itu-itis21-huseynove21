@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # :wave: The Basics of GitHub [MODIFIED BY EMIL HUSEYNOV,  150210906 at 11:20, 25.10.2021]
+=======
+# :wave: The Basics of GitHub [MODIFIED BY EMIL HUSEYNOV,  150210906 at 11:53, 25.10.2021]
+>>>>>>> fcb0452d999494415d72b83ca4b2859d7a9a0233
 
 ## 🤓 Course overview and learning outcomes 
 
